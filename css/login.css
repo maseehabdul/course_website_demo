@@ -1,0 +1,33 @@
+    #box {
+        margin-top: 60px;
+        height: 30rem;
+    }
+    
+    .bd2 {
+        background-image: url("../image/pexels-krivec-ales-547114.jpg");
+        overflow: hidden;
+        background-size: cover;
+    }
+    
+    label {
+        color: #bbd0ff;
+    }
+    
+    #box-items form input {
+        height: 40px;
+        border: none;
+        outline: none;
+    }
+    
+    .btn-submit {
+        border-radius: 10px;
+        margin: 0 auto;
+        color: white;
+        background-color: #457b9d;
+        outline: none;
+    }
+    
+    .btn-submit:hover {
+        background: none;
+        color: yellow;
+    }
